@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>BROMITA</name>
+    <directory>BROMITA</directory>
+
+    <version>1.6</version>
+    <visibility>Private</visibility>
+    <tag id="Graphics"/>
+</metadata>
