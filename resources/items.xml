@@ -16,7 +16,7 @@
 	<passive description="#HEART_DESCRIPTION" gfx="Collectibles_015_Heart.png" hearts="99" id="15" maxhearts="2" name="#HEART_NAME" />
 	<passive description="#RAW_LIVER_DESCRIPTION" gfx="Collectibles_016_RawLiver.png" hearts="99" id="16" maxhearts="4" name="#RAW_LIVER_NAME" />
 	<passive description="#SKELETON_KEY_DESCRIPTION" gfx="Collectibles_017_SkeletonKey.png" id="17" keys="99" name="#SKELETON_KEY_NAME" />
-	<passive coins="100" description="#A_DOLLAR_DESCRIPTION" gfx="Collectibles_018_ADollar.png" id="18" name="#A_DOLLAR_NAME" />
+	<passive coins="100" description="It looks... familiar?" gfx="Collectibles_018_ADollar.png" id="18" name="Pencil case" />
 	<passive bombs="10" description="#BOOM_DESCRIPTION" gfx="Collectibles_019_Boom.png" id="19" name="#BOOM_NAME" />
 	<passive achievement="8" cache="flying" description="#TRANSCENDENCE_DESCRIPTION" gfx="Collectibles_020_Transcendence.png" id="20" name="#TRANSCENDENCE_NAME" />
 	<passive description="#THE_COMPASS_DESCRIPTION" gfx="Collectibles_021_TheCompass.png" id="21" name="#THE_COMPASS_NAME" />

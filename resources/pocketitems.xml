@@ -19,7 +19,7 @@
 	<card type="tarot" pickup="1" description="Destruction brings creation" id="17" name="XVI - The Tower" announcer="385" announcerdelay="20" mimiccharge="3" />
 	<card type="tarot" pickup="1" description="May you find what you desire " id="18" name="XVII - The Stars" greedmode="false" announcer="383" announcerdelay="60" mimiccharge="2" />
 	<card type="tarot" pickup="1" description="May you find all you have lost" id="19" name="XVIII - The Moon" greedmode="false" announcer="382" announcerdelay="60" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="May the light heal and enlighten you" id="20" name="XIX - The Sus" announcer="384" announcerdelay="10" mimiccharge="12" />
+	<card type="tarot" pickup="1" description="May the light heal and enlighten you" id="20" name="XIX - The Suns" announcer="384" announcerdelay="10" mimiccharge="12" />
 	<card type="tarot" pickup="1" description="Judge lest ye be judged" id="21" name="XX - Judgement" announcer="348" mimiccharge="6" />
 	<card type="tarot" pickup="1" description="Open your eyes and see" id="22" name="XXI - The World" announcer="386" mimiccharge="3" />
 	<card type="suit" pickup="2" description="Item multiplier" id="23" name="2 of Clubs" announcer="387" mimiccharge="12" />
@@ -32,7 +32,7 @@
 	<card type="suit" pickup="2" achievement="329" description="Convert all" id="30" name="Ace of Hearts" announcer="450" announcerdelay="90" mimiccharge="6" />
 	<card type="suit" pickup="2" description="???" id="31" name="Joker" greedmode="false" announcer="347" announcerdelay="60" mimiccharge="2" />
 	<rune type="rune" pickup="3" achievement="89" description="Destruction" id="32" name="Hagalaz" announcer="341" mimiccharge="2" />
-	<rune type="rune" pickup="3" achievement="90" description="Abundance" id="33" name="Jera" announcer="346" mimiccharge="12" />
+	<rune type="rune" pickup="3" achievement="90" description="Abundance" id="33" name="Jerma" announcer="346" mimiccharge="12" />
 	<rune type="rune" pickup="3" achievement="91" description="Passage" id="34" name="Ehwaz" announcer="338" mimiccharge="4" />
 	<rune type="rune" pickup="3" achievement="92" description="Purity" id="35" name="Dagaz" announcer="336" mimiccharge="6" />
 	<rune type="rune" pickup="4" achievement="93" description="Vision" id="36" name="Ansuz" announcer="327" mimiccharge="2" />
@@ -117,7 +117,7 @@
 	
 	<pilleffect announcer2="760" id="0" name="Bad Gas" announcer="328" class="1+" mimiccharge="1" />
 	<pilleffect announcer2="761" id="1" name="Bad Trip" announcer="329" announcerdelay="60" class="2-" mimiccharge="1" />
-	<pilleffect announcer2="762" id="2" name="Balls of Steel" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
+	<pilleffect announcer2="762" id="2" name="Balls" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
 	<pilleffect announcer2="763" id="3" name="Bombs are Key" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
 	<pilleffect announcer2="764" id="4" name="Explosive Diarrhea" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
 	<pilleffect announcer2="765" id="5" name="Full Health" announcer="340" announcerdelay="70" class="2+" mimiccharge="12" />
